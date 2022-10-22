@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kyaw Zay Ya Lin Tun
-- 👀 I’m interested in Swift, iOS Development and Flutter
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Swift, iOS Development and everything related to Apple.
+- 🌱 I’m currently learning SwiftUI.
 - 💞️ I’m looking to collaborate on Swift and iOS projects
 - 📫 How to reach me: kyaw.codes@gmail.com
 
